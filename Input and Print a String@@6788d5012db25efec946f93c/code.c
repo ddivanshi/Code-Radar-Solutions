@@ -3,6 +3,8 @@ int main(){
     char code;
     printf("You entered: Hello ");
     scanf("%c" , &code); 
-  
+    char code2;
+    printf("You entered: World ");
+    scanf("%c" , &code2); 
 return 0;
 }
